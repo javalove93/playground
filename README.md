@@ -1,5 +1,6 @@
 # playground
 Playground for open source collaboration
 
-* 이 부분을 참조하는 issue 생성
+* 다음 명령으로 클론
+* git clone git@github.com:javalove93/playground.git 
 
